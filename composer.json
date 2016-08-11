@@ -1,0 +1,17 @@
+{
+    "name": "zycom/top-php-sdk",
+	"description": "淘宝php接口sdk应composer封装",
+	"license":"apache v2",
+    "authors": [
+        {
+            "name": "sanwv",
+            "email": "sanwv@163.com"
+        }
+    ],
+    "require": {
+    	"php": ">=5.4.0"
+    },
+    "autoload":{
+    	"classmap":["top/","top/request/","top/domain/","aliyun/","aliyun/request","aliyun/domain/"]
+    }
+}
