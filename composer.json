@@ -12,6 +12,6 @@
     	"php": ">=5.4.0"
     },
     "autoload":{
-    	"classmap":["top/","top/request/","top/domain/","aliyun/","aliyun/request","aliyun/domain/"]
+    	"classmap":["top/","top/request/","top/domain/","aliyun/"]
     }
 }
