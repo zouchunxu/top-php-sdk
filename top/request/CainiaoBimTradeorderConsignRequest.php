@@ -3,7 +3,7 @@
  * TOP API: cainiao.bim.tradeorder.consign request
  * 
  * @author auto create
- * @since 1.0, 2016.07.15
+ * @since 1.0, 2016.08.05
  */
 class CainiaoBimTradeorderConsignRequest
 {

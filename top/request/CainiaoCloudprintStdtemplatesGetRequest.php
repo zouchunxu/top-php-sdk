@@ -3,7 +3,7 @@
  * TOP API: cainiao.cloudprint.stdtemplates.get request
  * 
  * @author auto create
- * @since 1.0, 2016.05.19
+ * @since 1.0, 2016.09.19
  */
 class CainiaoCloudprintStdtemplatesGetRequest
 {

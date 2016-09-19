@@ -1,7 +1,7 @@
 <?php
 
 /**
- * 仓库物流订单信息列表
+ * 系统自动生成
  * @author auto create
  */
 class Consignorderlist

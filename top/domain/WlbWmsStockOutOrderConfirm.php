@@ -28,22 +28,22 @@ class WlbWmsStockOutOrderConfirm
 	public $order_confirm_time;
 	
 	/** 
-	 * 订单商品信息
+	 * 订单商品信息列表
 	 **/
 	public $order_items;
 	
 	/** 
-	 * 单据类型301 调拨出库单303 领用出库单901 退供出库单903 其他出库单
+	 * 单据类型 301 调拨出库单、901普通出库单、903 其他出库单、305 B2B出库单
 	 **/
 	public $order_type;
 	
 	/** 
-	 * 外部业务编码，消息ID，用于去重一个合作伙伴中要求唯一
+	 * 外部业务编码
 	 **/
 	public $out_biz_code;
 	
 	/** 
-	 * 包裹信息
+	 * 包裹信息列表
 	 **/
 	public $package_infos;
 	
@@ -53,7 +53,7 @@ class WlbWmsStockOutOrderConfirm
 	public $store_order_code;
 	
 	/** 
-	 * 运单号或者是托运单号
+	 * 运单号&托运单号
 	 **/
 	public $tms_order_code;
 	

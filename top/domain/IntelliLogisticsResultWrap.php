@@ -1,7 +1,7 @@
 <?php
 
 /**
- * dataList
+ * 返回结果封装类
  * @author auto create
  */
 class IntelliLogisticsResultWrap

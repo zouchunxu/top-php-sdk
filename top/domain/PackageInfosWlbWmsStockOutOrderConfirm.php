@@ -18,7 +18,7 @@ class PackageInfosWlbWmsStockOutOrderConfirm
 	public $package_height;
 	
 	/** 
-	 * 包裹里面的商品信息
+	 * 系统自动生成
 	 **/
 	public $package_item_items;
 	

@@ -3,7 +3,7 @@
  * TOP API: taobao.wlb.imports.order.get request
  * 
  * @author auto create
- * @since 1.0, 2016.05.16
+ * @since 1.0, 2016.09.08
  */
 class WlbImportsOrderGetRequest
 {

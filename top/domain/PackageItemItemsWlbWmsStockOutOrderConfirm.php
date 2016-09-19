@@ -8,7 +8,7 @@ class PackageItemItemsWlbWmsStockOutOrderConfirm
 {
 	
 	/** 
-	 * 货品ID
+	 * 后端商品ID
 	 **/
 	public $item_id;
 	

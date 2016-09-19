@@ -3,7 +3,7 @@
  * TOP API: cainiao.cloudprint.customares.get request
  * 
  * @author auto create
- * @since 1.0, 2016.05.19
+ * @since 1.0, 2016.09.18
  */
 class CainiaoCloudprintCustomaresGetRequest
 {

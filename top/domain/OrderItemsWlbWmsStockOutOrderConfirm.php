@@ -23,12 +23,12 @@ class OrderItemsWlbWmsStockOutOrderConfirm
 	public $item_id;
 	
 	/** 
-	 * 商品列表
+	 * 系统自动生成
 	 **/
 	public $items;
 	
 	/** 
-	 * 单据明细ID
+	 * ERP订单明细行号ID
 	 **/
 	public $order_item_id;	
 }

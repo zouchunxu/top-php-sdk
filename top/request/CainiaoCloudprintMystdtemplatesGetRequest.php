@@ -3,7 +3,7 @@
  * TOP API: cainiao.cloudprint.mystdtemplates.get request
  * 
  * @author auto create
- * @since 1.0, 2016.05.17
+ * @since 1.0, 2016.09.19
  */
 class CainiaoCloudprintMystdtemplatesGetRequest
 {

@@ -73,6 +73,11 @@ class Orderitemwlbwmsconsignordernotify
 	public $owner_user_name;
 	
 	/** 
+	 * ERP店铺编码
+	 **/
+	public $shop_code;
+	
+	/** 
 	 * 平台子交易编码
 	 **/
 	public $sub_source_code;

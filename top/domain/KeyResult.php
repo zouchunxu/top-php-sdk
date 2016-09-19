@@ -8,7 +8,7 @@ class KeyResult
 {
 	
 	/** 
-	 * key名称
+	 * keyName
 	 **/
 	public $key_name;	
 }

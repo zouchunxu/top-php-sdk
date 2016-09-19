@@ -23,16 +23,6 @@ class ItemsWlbWmsStockOutOrderConfirm
 	public $inventory_type;
 	
 	/** 
-	 * 商品编码
-	 **/
-	public $item_code;
-	
-	/** 
-	 * 商品ID
-	 **/
-	public $item_id;
-	
-	/** 
 	 * 生产批号
 	 **/
 	public $produce_code;

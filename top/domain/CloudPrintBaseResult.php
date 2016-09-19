@@ -1,29 +1,29 @@
 <?php
 
 /**
- * 结果
+ * result
  * @author auto create
  */
 class CloudPrintBaseResult
 {
 	
 	/** 
-	 * 数据
+	 * data
 	 **/
-	public $datas;
+	public $data;
 	
 	/** 
-	 * 系统自动生成
+	 * 错误码
 	 **/
 	public $error_code;
 	
 	/** 
-	 * 系统自动生成
+	 * 错误消息
 	 **/
 	public $error_message;
 	
 	/** 
-	 * 系统自动生成
+	 * 状态
 	 **/
 	public $success;	
 }

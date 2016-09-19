@@ -3,7 +3,7 @@
  * TOP API: taobao.wlb.wms.consign.order.notify request
  * 
  * @author auto create
- * @since 1.0, 2016.04.07
+ * @since 1.0, 2016.09.09
  */
 class WlbWmsConsignOrderNotifyRequest
 {

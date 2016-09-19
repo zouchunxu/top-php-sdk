@@ -3,7 +3,7 @@
  * TOP API: taobao.logistics.address.reachable request
  * 
  * @author auto create
- * @since 1.0, 2016.07.13
+ * @since 1.0, 2016.09.12
  */
 class LogisticsAddressReachableRequest
 {

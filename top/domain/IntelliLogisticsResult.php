@@ -8,6 +8,11 @@ class IntelliLogisticsResult
 {
 	
 	/** 
+	 * 物流公司编码
+	 **/
+	public $cp_code;
+	
+	/** 
 	 * 物流公司id
 	 **/
 	public $cp_id;

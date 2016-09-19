@@ -1,19 +1,14 @@
 <?php
 
 /**
- * 系统自动生成
+ * 面单信息
  * @author auto create
  */
 class WaybillCloudPrintResponse
 {
 	
 	/** 
-	 * 请求id
-	 **/
-	public $object_id;
-	
-	/** 
-	 * 模板内容,具体解释见<a href="http://open.taobao.com/doc2/detail.htm?spm=a219a.7629140.0.0.8cf9Nj&treeId=17&articleId=105085&docType=1#12">链接</a>
+	 * 面单信息
 	 **/
 	public $print_data;
 	

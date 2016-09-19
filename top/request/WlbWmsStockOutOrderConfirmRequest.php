@@ -3,7 +3,7 @@
  * TOP API: taobao.wlb.wms.stock.out.order.confirm request
  * 
  * @author auto create
- * @since 1.0, 2015.07.27
+ * @since 1.0, 2016.09.07
  */
 class WlbWmsStockOutOrderConfirmRequest
 {

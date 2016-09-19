@@ -3,7 +3,7 @@
  * TOP API: cainiao.logistics.intelli.batch.get request
  * 
  * @author auto create
- * @since 1.0, 2016.07.18
+ * @since 1.0, 2016.07.28
  */
 class CainiaoLogisticsIntelliBatchGetRequest
 {

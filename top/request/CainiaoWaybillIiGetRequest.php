@@ -3,7 +3,7 @@
  * TOP API: cainiao.waybill.ii.get request
  * 
  * @author auto create
- * @since 1.0, 2016.07.11
+ * @since 1.0, 2016.09.12
  */
 class CainiaoWaybillIiGetRequest
 {
